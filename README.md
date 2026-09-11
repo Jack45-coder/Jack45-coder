@@ -107,13 +107,37 @@ Highlights
 
 
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jack45-coder&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack45-coder&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jack45-coder&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack45-coder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ## 🔥 Contribution Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Jack45-coder&theme=tokyonight&hide_border=true" /> </p>
 
 ## 🌐 Connect With Me
-<p align="center"> <a href="https://github.com/Jack45-coder"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://jackey-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://leetcode.com/u/7zWsVM6fPH/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
+<p align="center">
+  <a href="https://github.com/Jack45-coder">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://jackey-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/7zWsVM6fPH/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-<p align="center"> <b>Java • Spring Boot • Backend Development</b> </p> <p align="center"> Building. Learning. Improving. 🚀 </p>
+<p align="center">
+  <b>Java • Spring Boot • Backend Development</b>
+</p>
+<p align="center">
+  Building. Learning. Improving. 🚀
+</p>
