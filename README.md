@@ -2,7 +2,14 @@
 <h3 align="center">Java Backend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jack45-coder&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jack45-coder&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack45-coder&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jack45-coder&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -114,10 +121,6 @@ Highlights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack45-coder&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-
-## 🔥 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Jack45-coder&theme=tokyonight&hide_border=true" /> </p>
 
 ## 🌐 Connect With Me
 <p align="center">
